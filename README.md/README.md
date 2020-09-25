@@ -1,8 +1,8 @@
-# MY FORTPOLIO PROJECT
+# MY PORTFOLIO PROJECT
 
 **Kesha Patel**
 
-My fortpolio project that contains all my information 
+My PortFolio project that contains all my information 
 
 These are my Projects:
 https://kesha2699.github.io/my-portfolio/
