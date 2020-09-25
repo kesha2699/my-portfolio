@@ -23,9 +23,8 @@ body {
     border: darkblue 20px;
     margin: 20px;
 }
-h1 {
+.patel {
     color: darkred;
-    text-align: center;
     font-size: 200%;
 }
 body {
@@ -33,4 +32,12 @@ body {
     font: 100;
     text-align: center;
     color: darkslateblue;
+}
+#kesha {
+    text-align: center;
+    list-style: none;
+}
+.text {
+    text-align: center;
+    
 }
