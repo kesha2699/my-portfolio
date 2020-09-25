@@ -24,5 +24,13 @@ body {
     margin: 20px;
 }
 h1 {
-    
+    color: darkred;
+    text-align: center;
+    font-size: 200%;
+}
+body {
+    background-color: lightgoldenrodyellow;
+    font: 100;
+    text-align: center;
+    color: darkviolet;
 }
