@@ -18,8 +18,8 @@ body {
     background-color: turquoise;
 }
 .test-box {
-    background-color: lightcoral;
+    background-color: lightpink;
     padding: 0%;
-    border: 20px darkblue;
+    border: darkblue 20px;
     margin: 20px;
 }
