@@ -12,7 +12,14 @@ img{
     width: 350px;
     float: left;
     font-size: 150%;
+    
 }
 body {
     background-color: turquoise;
+}
+.test-box {
+    background-color: lightcoral;
+    padding: 0%;
+    border: 20px darkblue;
+    margin: 20px;
 }
